@@ -1,0 +1,1 @@
+# TO-DO LISTThis is a to-do list created using HTML, CSS, Django and SQLite. It helps the user to maintain a list of tasks for the day and mark them as done once they are completed.
